@@ -20,3 +20,14 @@ D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlanne
 D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
 D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
 D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb

@@ -13,7 +13,7 @@ namespace TravelPlannerApp
 {
     public partial class Travel : Form
     {
-        info form = new info();
+        
         public Travel()
         {
             InitializeComponent();
@@ -55,7 +55,10 @@ namespace TravelPlannerApp
                     btn.Click += Btn_Click3;
                 }
                 if (i == 5)
+                {
                     btn.Text = "Háng Tề Chơ(Yên Bái)";
+                    btn.Click += Btn_Click4;
+                }
                 if (i == 6)
                     btn.Text = "Mù Cang Chải (Yên Bái)";
                 if (i == 7)
@@ -199,34 +202,47 @@ namespace TravelPlannerApp
             }
         }
 
+        private void Btn_Click4(object sender, EventArgs e)
+        {
+            info form = new info();
+            form.Sender("Háng Tề Chơ");
+            form.Show();
+            
+            
+        }
         private void Btn_Click3(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
+            info form = new info();
             form.Sender("Hàm Lợn");
             form.Show();
-        }
 
+        }
         private void Btn_Click2(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
+            info form = new info();
             form.Sender("Tam Đảo");
             form.Show();
+            
         }
-
         private void Btn_Click1(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
+            info form = new info();
             form.Sender("Mai Châu");
             form.Show();
+            
 
         }
         protected void Btn_Click(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
 
-           
+            info form = new info();
             form.Sender("Mộc Châu");
             form.Show();
+           
         }
 
       

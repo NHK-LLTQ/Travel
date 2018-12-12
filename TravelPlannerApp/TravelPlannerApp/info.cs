@@ -22,7 +22,7 @@ namespace TravelPlannerApp
         }
         private void info_Load(object sender, EventArgs e)
         {
-
+            
         }
         private void GetMessage(string Message)
         {
