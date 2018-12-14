@@ -62,7 +62,10 @@ namespace TravelPlannerApp
                 if (i == 6)
                     btn.Text = "Mù Cang Chải (Yên Bái)";
                 if (i == 7)
+                {
                     btn.Text = "Sapa (Lào Cai)";
+                    btn.Click += Btn_Click5;
+                }
                 if (i == 8)
                     btn.Text = "Hồ Pa Khoang (Điện Biên)";
                 if (i == 9)
@@ -202,6 +205,14 @@ namespace TravelPlannerApp
             }
         }
 
+        private void Btn_Click5(object sender, EventArgs e)
+        {
+            //throw new NotImplementedException();
+            info form = new info();
+            form.Sender("SaPa");
+            form.Show();
+        }
+
         private void Btn_Click4(object sender, EventArgs e)
         {
             info form = new info();
@@ -241,6 +252,7 @@ namespace TravelPlannerApp
 
             info form = new info();
             form.Sender("Mộc Châu");
+            //form.SenderP = TravelPlannerApp.Properties.Resources.Mộc_Châu_400x255;
             form.Show();
            
         }
