@@ -495,7 +495,7 @@ namespace TravelPlannerApp
             form.Sender("Thác Bản Giốc");
             form.Show();
         }
-        }
+        
         private void Btn_Click10(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
