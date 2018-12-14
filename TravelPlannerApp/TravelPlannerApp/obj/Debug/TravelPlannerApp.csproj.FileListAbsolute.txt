@@ -31,3 +31,14 @@ D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerAp
 D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
 D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
 D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb

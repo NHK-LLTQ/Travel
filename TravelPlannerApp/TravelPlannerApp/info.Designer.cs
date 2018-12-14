@@ -45,9 +45,10 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button1.Location = new System.Drawing.Point(13, 255);
+            this.button1.Location = new System.Drawing.Point(9, 166);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(533, 168);
+            this.button1.Size = new System.Drawing.Size(355, 109);
             this.button1.TabIndex = 1;
             this.button1.Text = "A->Z";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -56,9 +57,10 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button2.Location = new System.Drawing.Point(552, 255);
+            this.button2.Location = new System.Drawing.Point(368, 166);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(516, 168);
+            this.button2.Size = new System.Drawing.Size(344, 109);
             this.button2.TabIndex = 2;
             this.button2.Text = "Day Plans";
             this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -67,29 +69,33 @@
             // lblName
             // 
             this.lblName.Font = new System.Drawing.Font("Times New Roman", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.lblName.Location = new System.Drawing.Point(13, 9);
+            this.lblName.Location = new System.Drawing.Point(9, 6);
+            this.lblName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(533, 226);
+            this.lblName.Size = new System.Drawing.Size(355, 147);
             this.lblName.TabIndex = 3;
             this.lblName.Text = "label1";
             this.lblName.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
+            this.lblName.Click += new System.EventHandler(this.lblName_Click);
             // 
             // pnMap
             // 
-            this.pnMap.Location = new System.Drawing.Point(553, 9);
+            this.pnMap.Location = new System.Drawing.Point(369, 6);
+            this.pnMap.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnMap.Name = "pnMap";
-            this.pnMap.Size = new System.Drawing.Size(515, 226);
+            this.pnMap.Size = new System.Drawing.Size(343, 147);
             this.pnMap.TabIndex = 4;
             // 
             // info
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1080, 435);
+            this.ClientSize = new System.Drawing.Size(720, 283);
             this.Controls.Add(this.pnMap);
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "info";
             this.Text = "Text";
             this.Load += new System.EventHandler(this.info_Load);

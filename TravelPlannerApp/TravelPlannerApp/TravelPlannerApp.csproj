@@ -89,16 +89,121 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\Mộc-Châu-400x255.jpg" />
+    <None Include="Resources\Trekking Tây Yên Tử.JPG" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\A1.png" />
+    <None Include="Resources\Vịnh Vũng Rô.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\Mai-Châu.jpeg" />
+    <None Include="Resources\Vực Phun.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\SaPa.jpeg" />
+    <None Include="Resources\Suối Cá Thần Cẩm Lương.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vườn quốc gia Pù Mát.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Động Thiên Đường.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Đảo Phú Quý.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Biển Bình Tiên.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cù Lao Xanh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Đảo Lý Sơn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bà Nà.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sìn Hồ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Y Tý.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Háng Đồng.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Núi Muối.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bạch Mộc Lương Tử.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tà Xùa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Đỉnh Lảo Thẩn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Côn Sơn Kiếp Bạc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hồ Quan Sơn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hồ Núi Cốc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bình Liêu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bãi Dài.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hồ-Thung-Nai.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vườn-quốc-gia-Ba-Vì.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thác-Bản-Giốc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Đồng-Cao.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hàm-Lợn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Háng-Tề-Chơ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mai-Châu.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mộc-Châu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tam-Đảo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaPa.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mù-Cang-Chải.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pù Luông.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hồ-Pa-Khoang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vịnh Lan Hạ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tây Yên Tử.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vườn-Quốc-gia-Xuân-Sơn.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
