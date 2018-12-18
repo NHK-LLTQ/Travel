@@ -84,126 +84,137 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\Biển Bình Tiên.jpg" />
+    <None Include="Resources\Bà Nà.jpg" />
+    <None Include="Resources\Bãi Dài.jpg" />
+    <None Include="Resources\Bình Liêu.jpg" />
+    <None Include="Resources\Bạch Mộc Lương Tử.jpg" />
+    <None Include="Resources\Côn Sơn Kiếp Bạc.jpg" />
+    <None Include="Resources\Cù Lao Xanh.jpg" />
+    <None Include="Resources\Hàm-Lợn.jpg" />
+    <None Include="Resources\Háng Đồng.jpg" />
+    <None Include="Resources\Háng-Tề-Chơ.jpg" />
+    <None Include="Resources\Hồ Núi Cốc.jpg" />
+    <None Include="Resources\Hồ Quan Sơn.jpg" />
+    <None Include="Resources\Hồ-Pa-Khoang.jpg" />
+    <None Include="Resources\Hồ-Thung-Nai.jpg" />
+    <None Include="Resources\Mai-Châu.jpeg" />
+    <None Include="Resources\Mù-Cang-Chải.jpg" />
+    <None Include="Resources\Mộc-Châu.jpg" />
+    <None Include="Resources\Núi Muối.jpg" />
+    <None Include="Resources\Pù Luông.jpg" />
+    <None Include="Resources\SaPa.jpeg" />
+    <None Include="Resources\Suối Cá Thần Cẩm Lương.jpg" />
+    <None Include="Resources\Sìn Hồ.jpg" />
+    <None Include="Resources\Tam-Đảo.jpg" />
+    <None Include="Resources\Thác-Bản-Giốc.jpg" />
+    <None Include="Resources\Tà Xùa.jpg" />
+    <None Include="Resources\Tây Yên Tử.JPG" />
+    <None Include="Resources\Vườn quốc gia Pù Mát.jpg" />
+    <None Include="Resources\Vườn-quốc-gia-Ba-Vì.jpg" />
+    <None Include="Resources\Vườn-Quốc-gia-Xuân-Sơn.jpg" />
+    <None Include="Resources\Vịnh Lan Hạ.jpg" />
+    <None Include="Resources\Vịnh Vũng Rô.jpg" />
+    <None Include="Resources\Vực Phun.jpg" />
+    <None Include="Resources\Y Tý.jpg" />
+    <None Include="Resources\Đảo Lý Sơn.jpg" />
+    <None Include="Resources\Đảo Phú Quý.jpg" />
+    <None Include="Resources\Đỉnh Lảo Thẩn.jpg" />
+    <None Include="Resources\Đồng-Cao.jpg" />
+    <None Include="Resources\Động Thiên Đường.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Trekking Tây Yên Tử.JPG" />
+    <None Include="Resources\Bảo Lộc - Đà Lạt - Dran.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Vịnh Vũng Rô.jpg" />
+    <None Include="Resources\Bến En.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Vực Phun.jpg" />
+    <None Include="Resources\Bến Tre.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Suối Cá Thần Cẩm Lương.jpg" />
+    <None Include="Resources\Biển An Bàng.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Vườn quốc gia Pù Mát.jpg" />
+    <None Include="Resources\Biển Sầm Sơn.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Động Thiên Đường.jpg" />
+    <None Include="Resources\Biển Thiên Cầm.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Đảo Phú Quý.jpg" />
+    <None Include="Resources\Bình Ba.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Biển Bình Tiên.jpg" />
+    <None Include="Resources\Bình Hưng.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Cù Lao Xanh.jpg" />
+    <None Include="Resources\Bình Lập.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Đảo Lý Sơn.jpg" />
+    <None Include="Resources\Cà Mau.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Bà Nà.jpg" />
+    <None Include="Resources\Cần Thơ.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Sìn Hồ.jpg" />
+    <None Include="Resources\Cù Lao Chàm.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Y Tý.jpg" />
+    <None Include="Resources\Đà Lạt.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Háng Đồng.jpg" />
+    <None Include="Resources\Đèo A Co - Thác A Nor.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Núi Muối.jpg" />
+    <None Include="Resources\Đèo Hải Vân - Đầm Lập An.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Bạch Mộc Lương Tử.jpg" />
+    <None Include="Resources\Đèo Pêke.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Tà Xùa.jpg" />
+    <None Include="Resources\Đồng Tháp.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Đỉnh Lảo Thẩn.jpg" />
+    <None Include="Resources\Đường ven biển Ninh Thuận.JPG" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Côn Sơn Kiếp Bạc.jpg" />
+    <None Include="Resources\Khe Tre - Thác Mơ.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Hồ Quan Sơn.jpg" />
+    <None Include="Resources\Long An.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Hồ Núi Cốc.jpg" />
+    <None Include="Resources\Nam Du.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Bình Liêu.jpg" />
+    <None Include="Resources\Phú Quốc.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Bãi Dài.jpg" />
+    <None Include="Resources\Sóc Trăng.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Hồ-Thung-Nai.jpg" />
+    <None Include="Resources\Thành Phố Hồ Chí Minh.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Vườn-quốc-gia-Ba-Vì.jpg" />
+    <None Include="Resources\Thung Nham - Thung Chim.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Thác-Bản-Giốc.jpg" />
+    <None Include="Resources\Tiền Giang.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Đồng-Cao.jpg" />
+    <None Include="Resources\Trà Vinh.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Hàm-Lợn.jpg" />
+    <None Include="Resources\Vĩnh Long.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Háng-Tề-Chơ.jpg" />
+    <None Include="Resources\Vũng Tàu.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Mai-Châu.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Mộc-Châu.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Tam-Đảo.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SaPa.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Mù-Cang-Chải.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Pù Luông.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Hồ-Pa-Khoang.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Vịnh Lan Hạ.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Tây Yên Tử.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Vườn-Quốc-gia-Xuân-Sơn.jpg" />
+    <None Include="Resources\Vườn Quốc Gia Bạch Mã.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

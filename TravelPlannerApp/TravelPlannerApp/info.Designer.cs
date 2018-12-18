@@ -45,10 +45,10 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button1.Location = new System.Drawing.Point(9, 242);
+            this.button1.Location = new System.Drawing.Point(11, 361);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(365, 109);
+            this.button1.Size = new System.Drawing.Size(501, 90);
             this.button1.TabIndex = 1;
             this.button1.Text = "A->Z";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -57,22 +57,24 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button2.Location = new System.Drawing.Point(378, 242);
+            this.button2.Location = new System.Drawing.Point(531, 361);
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(395, 109);
+            this.button2.Size = new System.Drawing.Size(342, 90);
             this.button2.TabIndex = 2;
             this.button2.Text = "Day Plans";
             this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // lblName
             // 
+            this.lblName.AllowDrop = true;
             this.lblName.Font = new System.Drawing.Font("Times New Roman", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lblName.Location = new System.Drawing.Point(9, 6);
             this.lblName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(365, 232);
+            this.lblName.Size = new System.Drawing.Size(503, 340);
             this.lblName.TabIndex = 3;
             this.lblName.Text = "label1";
             this.lblName.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
@@ -80,17 +82,17 @@
             // 
             // pnMap
             // 
-            this.pnMap.Location = new System.Drawing.Point(378, 11);
+            this.pnMap.Location = new System.Drawing.Point(531, 11);
             this.pnMap.Margin = new System.Windows.Forms.Padding(2);
             this.pnMap.Name = "pnMap";
-            this.pnMap.Size = new System.Drawing.Size(395, 227);
+            this.pnMap.Size = new System.Drawing.Size(342, 335);
             this.pnMap.TabIndex = 4;
             // 
             // info
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 362);
+            this.ClientSize = new System.Drawing.Size(884, 462);
             this.Controls.Add(this.pnMap);
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.button2);
