@@ -183,134 +183,50 @@ namespace TravelPlannerApp
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Vịnh_Vũng_Rô;
             }
-            if (lblName.Text == "Bến En")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Bến_En;
+
             }
-            if (lblName.Text == "Biển Sầm Sơn")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Biển_Sầm_Sơn;
+
             }
-            if (lblName.Text == "Cà Mau")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Cà_Mau;
+
             }
-            if (lblName.Text == "Biển Thiên Cầm")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Biển_Thiên_Cầm;
+
             }
-            if (lblName.Text == "Thung Nham - Thung Chim")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Thung_Nham___Thung_Chim;
+
             }
-            if (lblName.Text == "Đèo Hải Vân – Đầm Lập An")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Đèo_Hải_Vân___Đầm_Lập_An;
+
             }
-            if (lblName.Text == "Vườn Quốc Gia Bạch Mã")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Vườn_Quốc_Gia_Bạch_Mã;
+
             }
-            if (lblName.Text == "Đèo A Co – Thác A Nor")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Đèo_A_Co___Thác_A_Nor;
+
             }
-            if (lblName.Text == "Thành Phố Hồ Chí Minh")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Thành_Phố_Hồ_Chí_Minh;
+
             }
-            if (lblName.Text == "Khe Tre - Thác Mơ")
+            if (lblName.Text == "")
             {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Khe_Tre___Thác_Mơ;
+
             }
-            if (lblName.Text == "Biển An Bàng")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Biển_An_Bàng;
-            }
-            if (lblName.Text == "Cù Lao Chàm")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Cù_Lao_Chàm;
-            }
-            if (lblName.Text == "Đà Lạt")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Đà_Lạt;
-            }
-            if (lblName.Text == "Nam Du")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Nam_Du;
-            }
-            if (lblName.Text == "Đường ven biển Ninh Thuận")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Đường_ven_biển_Ninh_Thuận;
-            }
-            if (lblName.Text == "Bảo Lộc - Đà Lạt – Dran")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Bảo_Lộc___Đà_Lạt___Dran;
-            }
-            if (lblName.Text == "Bình Ba")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Bình_Ba;
-            }
-            if (lblName.Text == "Bình Lập")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Bình_Lập;
-            }
-            if (lblName.Text == "Bình Hưng")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Bình_Hưng;
-            }
-            if (lblName.Text == "Đèo Pêke")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Đèo_Pêke;
-            }
-            if (lblName.Text == "Phú Quốc")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Phú_Quốc;
-            }
-            if (lblName.Text == "Vũng Tàu")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Vũng_Tàu;
-            }
-            if (lblName.Text == "Long An")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Long_An;
-            }
-            if (lblName.Text == "Tiền Giang")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Tiền_Giang;
-            }
-            if (lblName.Text == "Bến Tre")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Bến_Tre;
-            }
-            if (lblName.Text == "Trà Vinh")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Trà_Vinh;
-            }
-            if (lblName.Text == "Sóc Trăng")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Sóc_Trăng; 
-            }
-            if (lblName.Text == "Cần Thơ")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Cần_Thơ;
-            }
-            if (lblName.Text == "Vĩnh Long")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Vĩnh_Long;
-            }
-            if (lblName.Text == "Đồng Tháp")
-            {
-                lblName.Image = TravelPlannerApp.Properties.Resources.Đồng_Tháp;
-            }
+
         }
 
         private void lblName_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
         {
 
         }

@@ -229,373 +229,76 @@ namespace TravelPlannerApp
                     btn.Click += Btn_Click38;
                 }
 
-                if (i == 39)
-                {
+                    if (i == 39)
                     btn.Text = "Bến En (Thanh Hóa)";
-                    btn.Click += Btn_Click39;
-                }
+
                 if (i == 40)
-                {
-                    btn.Text = "Biển Sầm Sơn (Thanh Hóa)";
-                    btn.Click += Btn_Click40;
-                }
+                    btn.Text = "Đến biển Sầm Sơn (Thanh Hóa)";
                 if (i == 41)
-                {
-                    btn.Text = "Cà Mau";
-                    btn.Click += Btn_Click41;
-                }
+                    btn.Text = "Rừng quốc gia Pù Mát, Con Cuông (Nghệ An)";
                 if (i == 42)
-                {
                     btn.Text = "Biển Thiên Cầm (Hà Tĩnh)";
-                    btn.Click += Btn_Click42;
-                }
                 if (i == 43)
-                {
                     btn.Text = "Thung Nham - Thung Chim (Ninh Bình)";
-                    btn.Click += Btn_Click43;
-                }
                 if (i == 44)
-                {
-                    btn.Text = "Đèo Hải Vân – Đầm Lập An (Thừa Thiên Huế)";
-                    btn.Click += Btn_Click44;
-                }
+                    btn.Text = "Đèo Hải Vân – Đầm Lập An – Vườn Quốc Gia Bạch Mã (Thừa Thiên Huế)";
                 if (i == 45)
-                {
-                    btn.Text = "Vườn Quốc Gia Bạch Mã  (Huế)";
-                    btn.Click += Btn_Click45;
-                }
+                    btn.Text = "Quốc lộ 49B: 5 đầm, 3 biển, 1 động, 1 phá (Huế)";
                 if (i == 46)
-                {
                     btn.Text = "Đèo A Co – Thác A Nor (Huế)";
-                    btn.Click += Btn_Click46;
-                }
                 if (i == 47)
-                {
-                    btn.Text = "Thành Phố Hồ Chí Minh";
-                    btn.Click += Btn_Click47;
-                }
+                    btn.Text = "Hồ Chí Minh - đèo Pêke (Huế)";
                 if (i == 48)
-                {
                     btn.Text = "Khe Tre - Thác Mơ";
-                    btn.Click += Btn_Click48;
-                }
                 if (i == 49)
-                {
                     btn.Text = "Biển An Bàng";
-                    btn.Click += Btn_Click49;
-                }
                 if (i == 50)
-                {
                     btn.Text = "Cù Lao Chàm";
-                    btn.Click += Btn_Click50;
-                }
                 if (i == 51)
-                {
                     btn.Text = "Đà Lạt (Lâm Đồng)";
-                    btn.Click += Btn_Click51;
-                }
                 if (i == 52)
-                {
                     btn.Text = "Nam Du (Kiên Giang)";
-                    btn.Click += Btn_Click52;
-                }
                 if (i == 53)
-                {
                     btn.Text = "Đường ven biển Ninh Thuận";
-                    btn.Click += Btn_Click53;
-                }
                 if (i == 54)
-                {
                     btn.Text = "Bảo Lộc - Đà Lạt - Dran (Đà Lạt)";
-                    btn.Click += Btn_Click54;
-                }
                 if (i == 55)
-                {
                     btn.Text = "Bình Ba";
-                    btn.Click += Btn_Click55;
-                }
                 if (i == 56)
-                {
                     btn.Text = "Bình Lập";
-                    btn.Click += Btn_Click56;
-                }
                 if (i == 57)
-                {
                     btn.Text = "Bình Hưng";
-                    btn.Click += Btn_Click57;
-                }
                 if (i == 58)
-                {
-                    btn.Text = "Đèo Pêke";
-                    btn.Click += Btn_Click58;
-                }
+                    btn.Text = "Biển Bình Tiên – Nàng công chúa ngủ quên";
                 if (i == 59)
-                {
                     btn.Text = "Phú Quốc (Kiên Giang)";
-                    btn.Click += Btn_Click59;
-                }
                 if (i == 60)
-                {
                     btn.Text = "Vũng Tàu";
-                    btn.Click += Btn_Click60;
-                }
                 if (i == 61)
-                {
                     btn.Text = "Long An";
-                    btn.Click += Btn_Click61;
-                }
                 if (i == 62)
-                {
                     btn.Text = "Tiền Giang";
-                    btn.Click += Btn_Click62;
-                }
                 if (i == 63)
-                {
                     btn.Text = "Bến Tre";
-                    btn.Click += Btn_Click63;
-                }
                 if (i == 64)
-                {
                     btn.Text = "Trà Vinh";
-                    btn.Click += Btn_Click64;
-                }
                 if (i == 65)
-                {
                     btn.Text = "Sóc Trăng";
-                    btn.Click += Btn_Click65;
-                }
                 if (i == 66)
-                {
                     btn.Text = "Cần Thơ";
-                    btn.Click += Btn_Click66;
-                }
                 if (i == 67)
-                {
                     btn.Text = "Vĩnh Long";
-                    btn.Click += Btn_Click67;
-                }
                 if (i == 68)
-                {
                     btn.Text = "Đồng Tháp";
-                    btn.Click += Btn_Click68;
-                }
 
 
-                    btn.AutoSize = true;
+
+                btn.AutoSize = true;
                 btn.Location = new Point(10, panel1.Controls.Count * 25);
                 panel1.Controls.Add(btn);
             }
         }
-        private void Btn_Click68(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Đồng Tháp");
-            form.Show();
-        }
-        private void Btn_Click67(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Vĩnh Long");
-            form.Show();
-        }
-        private void Btn_Click66(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Cần Thơ");
-            form.Show();
-        }
-        private void Btn_Click65(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Sóc Trăng");
-            form.Show();
-        }
-        private void Btn_Click64(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Trà Vinh");
-            form.Show();
-        }
-        private void Btn_Click63(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Bến Tre");
-            form.Show();
-        }
-        private void Btn_Click62(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Tiền Giang");
-            form.Show();
-        }
-        private void Btn_Click61(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Long An");
-            form.Show();
-        }
-        private void Btn_Click60(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Vũng Tàu");
-            form.Show();
-        }
-        private void Btn_Click59(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Phú Quốc");
-            form.Show();
-        }
-        private void Btn_Click58(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Đèo Pêke");
-            form.Show();
-        }
-        private void Btn_Click57(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Bình Hưng");
-            form.Show();
-        }
-        private void Btn_Click56(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Bình Lập");
-            form.Show();
-        }
-        private void Btn_Click55(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Bình Ba");
-            form.Show();
-        }
-        private void Btn_Click54(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Bảo Lộc - Đà Lạt – Dran");
-            form.Show();
-        }
-        private void Btn_Click53(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Đường ven biển Ninh Thuận");
-            form.Show();
-        }
-        private void Btn_Click52(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Nam Du");
-            form.Show();
-        }
-        private void Btn_Click51(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Đà Lạt");
-            form.Show();
-        }
-        private void Btn_Click50(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Cù Lao Chàm");
-            form.Show();
-        }
-        private void Btn_Click49(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Biển An Bàng");
-            form.Show();
-        }
-        private void Btn_Click48(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Khe Tre - Thác Mơ");
-            form.Show();
-        }
-        private void Btn_Click47(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Thành Phố Hồ Chí Minh");
-            form.Show();
-        }
-        private void Btn_Click46(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Đèo A Co – Thác A Nor");
-            form.Show();
-        }
-        private void Btn_Click45(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Vườn Quốc Gia Bạch Mã");
-            form.Show();
-        }
-        private void Btn_Click44(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Đèo Hải Vân – Đầm Lập An");
-            form.Show();
-        }
-        private void Btn_Click43(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Thung Nham - Thung Chim");
-            form.Show();
-        }
-        private void Btn_Click42(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Biển Thiên Cầm");
-            form.Show();
-        }
-        private void Btn_Click41(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Cà Mau");
-            form.Show();
-        }
-        private void Btn_Click40(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Biển Sầm Sơn");
-            form.Show();
-        }
-        private void Btn_Click39(object sender, EventArgs e)
-        {
-            //throw new NotImplementedException();
-            info form = new info();
-            form.Sender("Bến En");
-            form.Show();
-        }
+
         private void Btn_Click38(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
