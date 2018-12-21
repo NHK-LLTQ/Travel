@@ -1,0 +1,97 @@
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+D:\source\repos\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+D:\Đồ Án\Travel-App\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+C:\Users\khoa\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\GMap.NET.Core.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.xml
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CopyComplete
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\GMap.NET.Core.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.xml
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Regions.resources
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CopyComplete
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+C:\Users\tgdd\Desktop\Up1\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb

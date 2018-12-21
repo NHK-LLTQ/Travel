@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Biển_Bình_Tiên" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biển Bình Tiên.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bà_Nà" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bà Nà.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bãi_Dài" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bãi Dài.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bình_Liêu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bình Liêu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bạch_Mộc_Lương_Tử" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bạch Mộc Lương Tử.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Côn_Sơn_Kiếp_Bạc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Côn Sơn Kiếp Bạc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cù_Lao_Xanh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cù Lao Xanh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hàm_Lợn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hàm-Lợn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Háng_Tề_Chơ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Háng-Tề-Chơ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Háng_Đồng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Háng Đồng.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hồ_Núi_Cốc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hồ Núi Cốc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hồ_Pa_Khoang" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hồ-Pa-Khoang.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hồ_Quan_Sơn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hồ Quan Sơn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hồ_Thung_Nai" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hồ-Thung-Nai.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mai_Châu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mai-Châu.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mù_Cang_Chải" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mù-Cang-Chải.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mộc_Châu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mộc-Châu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Núi_Muối" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Núi Muối.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pù_Luông" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pù Luông.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SaPa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SaPa.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="String" xml:space="preserve">
+    <value>Mù Cang Chải</value>
+  </data>
+  <data name="Suối_Cá_Thần_Cẩm_Lương" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Suối Cá Thần Cẩm Lương.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sìn_Hồ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sìn Hồ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tam_Đảo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tam-Đảo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Thác_Bản_Giốc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Thác-Bản-Giốc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tà_Xùa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tà Xùa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tây_Yên_Tử" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tây Yên Tử.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vườn_quốc_gia_Ba_Vì" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vườn-quốc-gia-Ba-Vì.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vườn_quốc_gia_Pù_Mát" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vườn quốc gia Pù Mát.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vườn_Quốc_gia_Xuân_Sơn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vườn-Quốc-gia-Xuân-Sơn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vịnh_Lan_Hạ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vịnh Lan Hạ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vịnh_Vũng_Rô" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vịnh Vũng Rô.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vực_Phun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vực Phun.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Y_Tý" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Y Tý.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đảo_Lý_Sơn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đảo Lý Sơn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đảo_Phú_Quý" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đảo Phú Quý.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đỉnh_Lảo_Thẩn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đỉnh Lảo Thẩn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đồng_Cao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đồng-Cao.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Động_Thiên_Đường" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Động Thiên Đường.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Biển_An_Bàng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biển An Bàng.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Biển_Sầm_Sơn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biển Sầm Sơn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Biển_Thiên_Cầm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Biển Thiên Cầm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bình_Ba" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bình Ba.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bình_Hưng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bình Hưng.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bình_Lập" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bình Lập.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bảo_Lộc___Đà_Lạt___Dran" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bảo Lộc - Đà Lạt - Dran.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bến_En" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bến En.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bến_Tre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bến Tre.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cà_Mau" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cà Mau.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cù_Lao_Chàm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cù Lao Chàm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cần_Thơ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cần Thơ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Khe_Tre___Thác_Mơ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Khe Tre - Thác Mơ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Long_An" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Long An.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nam_Du" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Nam Du.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Phú_Quốc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Phú Quốc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sóc_Trăng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sóc Trăng.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Thung_Nham___Thung_Chim" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Thung Nham - Thung Chim.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Thành_Phố_Hồ_Chí_Minh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Thành Phố Hồ Chí Minh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tiền_Giang" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tiền Giang.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trà_Vinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Trà Vinh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vĩnh_Long" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vĩnh Long.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vũng_Tàu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vũng Tàu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vườn_Quốc_Gia_Bạch_Mã" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vườn Quốc Gia Bạch Mã.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đà_Lạt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đà Lạt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đèo_A_Co___Thác_A_Nor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đèo A Co - Thác A Nor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đèo_Hải_Vân___Đầm_Lập_An" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đèo Hải Vân - Đầm Lập An.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đèo_Pêke" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đèo Pêke.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đường_ven_biển_Ninh_Thuận" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đường ven biển Ninh Thuận.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Đồng_Tháp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Đồng Tháp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
