@@ -43,9 +43,10 @@
             // 
             this.pictureBox1.BackgroundImage = global::TravelPlannerApp.Properties.Resources.Lăng_Bác;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(1, 1);
+            this.pictureBox1.Location = new System.Drawing.Point(2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(258, 395);
+            this.pictureBox1.Size = new System.Drawing.Size(387, 608);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -53,9 +54,10 @@
             // 
             this.pictureBox2.BackgroundImage = global::TravelPlannerApp.Properties.Resources.Cố_Đô_Huế;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Location = new System.Drawing.Point(265, 1);
+            this.pictureBox2.Location = new System.Drawing.Point(398, 2);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(274, 395);
+            this.pictureBox2.Size = new System.Drawing.Size(411, 608);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
@@ -63,9 +65,10 @@
             // 
             this.pictureBox3.BackgroundImage = global::TravelPlannerApp.Properties.Resources.Nhà_Thờ_Đức_Bà;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox3.Location = new System.Drawing.Point(545, 1);
+            this.pictureBox3.Location = new System.Drawing.Point(818, 2);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(254, 395);
+            this.pictureBox3.Size = new System.Drawing.Size(381, 608);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
@@ -73,9 +76,10 @@
             // 
             this.btnbac.BackColor = System.Drawing.Color.Lime;
             this.btnbac.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnbac.Location = new System.Drawing.Point(51, 409);
+            this.btnbac.Location = new System.Drawing.Point(76, 629);
+            this.btnbac.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnbac.Name = "btnbac";
-            this.btnbac.Size = new System.Drawing.Size(132, 34);
+            this.btnbac.Size = new System.Drawing.Size(198, 52);
             this.btnbac.TabIndex = 1;
             this.btnbac.Text = "Miền Bắc";
             this.btnbac.UseVisualStyleBackColor = false;
@@ -85,9 +89,10 @@
             // 
             this.btntrung.BackColor = System.Drawing.Color.Lime;
             this.btntrung.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btntrung.Location = new System.Drawing.Point(328, 409);
+            this.btntrung.Location = new System.Drawing.Point(492, 629);
+            this.btntrung.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntrung.Name = "btntrung";
-            this.btntrung.Size = new System.Drawing.Size(136, 34);
+            this.btntrung.Size = new System.Drawing.Size(204, 52);
             this.btntrung.TabIndex = 4;
             this.btntrung.Text = "Miền Trung";
             this.btntrung.UseVisualStyleBackColor = false;
@@ -97,9 +102,10 @@
             // 
             this.btnnam.BackColor = System.Drawing.Color.Lime;
             this.btnnam.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnnam.Location = new System.Drawing.Point(625, 409);
+            this.btnnam.Location = new System.Drawing.Point(938, 629);
+            this.btnnam.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnnam.Name = "btnnam";
-            this.btnnam.Size = new System.Drawing.Size(125, 34);
+            this.btnnam.Size = new System.Drawing.Size(188, 52);
             this.btnnam.TabIndex = 5;
             this.btnnam.Text = "Miền Nam";
             this.btnnam.UseVisualStyleBackColor = false;
@@ -107,17 +113,19 @@
             // 
             // bactrungnam
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1200, 692);
             this.Controls.Add(this.btnnam);
             this.Controls.Add(this.btntrung);
             this.Controls.Add(this.btnbac);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "bactrungnam";
             this.Text = "bactrungnam";
+            this.Load += new System.EventHandler(this.bactrungnam_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

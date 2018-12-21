@@ -34,5 +34,10 @@ namespace TravelPlannerApp
             MienNam mn = new MienNam();
             mn.ShowDialog();
         }
+
+        private void bactrungnam_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

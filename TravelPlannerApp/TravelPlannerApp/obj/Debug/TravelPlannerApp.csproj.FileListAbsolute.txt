@@ -54,3 +54,17 @@ C:\tuan4700\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlan
 C:\tuan4700\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
 C:\tuan4700\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
 C:\tuan4700\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe.config
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.exe
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\bin\Debug\TravelPlannerApp.pdb
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csprojAssemblyReference.cache
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.bactrungnam.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.info.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.MienBac.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.MienNam.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Travel.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Properties.Resources.resources
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.GenerateResource.cache
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
+C:\Users\tgdd\Desktop\Travel-master\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb

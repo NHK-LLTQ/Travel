@@ -16,5 +16,10 @@ namespace TravelPlannerApp
         {
             InitializeComponent();
         }
+
+        private void MienNam_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

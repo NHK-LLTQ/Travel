@@ -16,5 +16,10 @@ namespace TravelPlannerApp
         {
             InitializeComponent();
         }
+
+        private void MienBac_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
