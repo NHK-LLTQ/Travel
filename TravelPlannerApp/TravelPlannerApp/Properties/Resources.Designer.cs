@@ -83,6 +83,16 @@ namespace TravelPlannerApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BackGround {
+            get {
+                object obj = ResourceManager.GetObject("BackGround", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Bãi_Dài {
             get {
                 object obj = ResourceManager.GetObject("Bãi_Dài", resourceCulture);
@@ -373,6 +383,16 @@ namespace TravelPlannerApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Hàm_Lợn1 {
+            get {
+                object obj = ResourceManager.GetObject("Hàm_Lợn1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Háng_Đồng {
             get {
                 object obj = ResourceManager.GetObject("Háng_Đồng", resourceCulture);
@@ -443,6 +463,26 @@ namespace TravelPlannerApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Kinh_do_Hue_1 {
+            get {
+                object obj = ResourceManager.GetObject("Kinh_do_Hue_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Lăng_Chủ_tịch_Hồ_Chí_Minh {
+            get {
+                object obj = ResourceManager.GetObject("Lăng_Chủ_tịch_Hồ_Chí_Minh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Long_An {
             get {
                 object obj = ResourceManager.GetObject("Long_An", resourceCulture);
@@ -466,6 +506,16 @@ namespace TravelPlannerApp.Properties {
         internal static System.Drawing.Bitmap Mộc_Châu {
             get {
                 object obj = ResourceManager.GetObject("Mộc_Châu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Mộc_Châu1 {
+            get {
+                object obj = ResourceManager.GetObject("Mộc_Châu1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -503,6 +553,16 @@ namespace TravelPlannerApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap PaKhoang {
+            get {
+                object obj = ResourceManager.GetObject("PaKhoang", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Phú_Quốc {
             get {
                 object obj = ResourceManager.GetObject("Phú_Quốc", resourceCulture);
@@ -526,6 +586,16 @@ namespace TravelPlannerApp.Properties {
         internal static System.Drawing.Bitmap SaPa {
             get {
                 object obj = ResourceManager.GetObject("SaPa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sapa1 {
+            get {
+                object obj = ResourceManager.GetObject("Sapa1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -675,6 +745,16 @@ namespace TravelPlannerApp.Properties {
         internal static System.Drawing.Bitmap Vịnh_Vũng_Rô {
             get {
                 object obj = ResourceManager.GetObject("Vịnh_Vũng_Rô", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VQGXS {
+            get {
+                object obj = ResourceManager.GetObject("VQGXS", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
