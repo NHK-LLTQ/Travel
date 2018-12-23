@@ -63,8 +63,9 @@
             this.btnbac.Name = "btnbac";
             this.btnbac.Size = new System.Drawing.Size(198, 52);
             this.btnbac.TabIndex = 2;
-            this.btnbac.Text = "Miền Bắc";
+            this.btnbac.Text = "Northern";
             this.btnbac.UseVisualStyleBackColor = false;
+            this.btnbac.Click += new System.EventHandler(this.btnbac_Click);
             // 
             // pictureBox2
             // 
@@ -97,7 +98,7 @@
             this.btntrung.Name = "btntrung";
             this.btntrung.Size = new System.Drawing.Size(204, 52);
             this.btntrung.TabIndex = 5;
-            this.btntrung.Text = "Miền Trung";
+            this.btntrung.Text = "Central";
             this.btntrung.UseVisualStyleBackColor = false;
             // 
             // btnnam
@@ -109,8 +110,9 @@
             this.btnnam.Name = "btnnam";
             this.btnnam.Size = new System.Drawing.Size(188, 52);
             this.btnnam.TabIndex = 6;
-            this.btnnam.Text = "Miền Nam";
+            this.btnnam.Text = "South";
             this.btnnam.UseVisualStyleBackColor = false;
+            this.btnnam.Click += new System.EventHandler(this.btnnam_Click);
             // 
             // label1
             // 

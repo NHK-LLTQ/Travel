@@ -112,3 +112,6 @@ D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\System.Data.SQL
 D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Regions.resources
 D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CopyComplete
 D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.NHKA_Travel.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.NorthSide.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Central.resources
+D:\Đồ án2\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.SouthSide.resources

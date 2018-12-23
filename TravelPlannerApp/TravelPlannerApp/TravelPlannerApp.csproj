@@ -124,14 +124,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Central.resx">
+      <DependentUpon>Central.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="info.resx">
       <DependentUpon>info.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NHKA-Travel.resx">
       <DependentUpon>NHKA-Travel.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="NorthSide.resx">
+      <DependentUpon>NorthSide.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Regions.resx">
       <DependentUpon>Regions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SouthSide.resx">
+      <DependentUpon>SouthSide.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Travel.resx">
       <DependentUpon>Travel.cs</DependentUpon>

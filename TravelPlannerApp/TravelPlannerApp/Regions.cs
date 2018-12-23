@@ -16,5 +16,17 @@ namespace TravelPlannerApp
         {
             InitializeComponent();
         }
+
+        private void btnbac_Click(object sender, EventArgs e)
+        {
+            NorthSide north = new NorthSide();
+            north.ShowDialog();
+        }
+
+        private void btnnam_Click(object sender, EventArgs e)
+        {
+            SouthSide south = new SouthSide();
+            south.ShowDialog();
+        }
     }
 }
