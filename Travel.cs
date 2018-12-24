@@ -33,7 +33,7 @@ namespace TravelPlannerApp
             for (int i = 1; i < 69; i++)
             {
                 Button btn = new Button();
-
+                //Miền Bắc
                 if (i == 1)
                 {
                     btn.Text = "Mộc Châu (Sơn La)";
@@ -165,6 +165,7 @@ namespace TravelPlannerApp
                     btn.Text = "Y Tý (Lào Cai)";
                     btn.Click += Btn_Click26;
                 }
+                //Miền trung
                 if (i == 27)
                 {
                     btn.Text = "Sìn Hồ (Lai Châu)";
@@ -381,7 +382,7 @@ namespace TravelPlannerApp
                 }
 
 
-                    btn.AutoSize = true;
+                btn.AutoSize = true;
                 btn.Location = new Point(10, panel1.Controls.Count * 25);
                 panel1.Controls.Add(btn);
             }

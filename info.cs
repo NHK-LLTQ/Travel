@@ -38,6 +38,7 @@ namespace TravelPlannerApp
         protected void info_Load(object sender, EventArgs e)
         {
             lblName.ForeColor = Color.Red;
+        
           
         }
         private void GetMessage(string Message)

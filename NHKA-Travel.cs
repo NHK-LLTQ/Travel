@@ -10,23 +10,23 @@ using System.Windows.Forms;
 
 namespace TravelPlannerApp
 {
-    public partial class Regions : Form
+    public partial class NHKA_Travel : Form
     {
-        public Regions()
+        public NHKA_Travel()
         {
             InitializeComponent();
         }
 
-        private void btnbac_Click(object sender, EventArgs e)
+        private void NHKA_Travel_Load(object sender, EventArgs e)
         {
-            NorthSide north = new NorthSide();
-            north.ShowDialog();
+            //label1.Dock = DockStyle.Fill;
         }
 
-        private void btnnam_Click(object sender, EventArgs e)
+        private void NHKA_Travel_MouseClick(object sender, MouseEventArgs e)
         {
-            SouthSide south = new SouthSide();
-            south.ShowDialog();
+            Regions Regi = new Regions();
+            Regi.ShowDialog();
+            this.Hide();
         }
     }
 }

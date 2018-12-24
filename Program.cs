@@ -16,7 +16,7 @@ namespace TravelPlannerApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Travel());
+            Application.Run(new NHKA_Travel());
         }
     }
 }

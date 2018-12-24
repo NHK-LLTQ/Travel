@@ -87,7 +87,9 @@
     <Compile Include="info.Designer.cs">
       <DependentUpon>info.cs</DependentUpon>
     </Compile>
-    <Compile Include="NHKA-Travel.cs" />
+    <Compile Include="NHKA-Travel.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="NHKA-Travel.Designer.cs">
       <DependentUpon>NHKA-Travel.cs</DependentUpon>
     </Compile>
