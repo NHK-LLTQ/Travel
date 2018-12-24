@@ -12,6 +12,7 @@ namespace TravelPlannerApp
 {
     public partial class NorthSide : Form
     {
+        
         public NorthSide()
         {
             InitializeComponent();
@@ -20,6 +21,7 @@ namespace TravelPlannerApp
         private void NorthSide_Load(object sender, EventArgs e)
         {
             NorthPlaces();
+            
 
         }
         protected void NorthPlaces()
@@ -33,6 +35,7 @@ namespace TravelPlannerApp
                 if (i == 1)
                 {
                     btn.Text = "Mộc Châu";
+                    btn.Click += Btn_Click;
                 }
                 if (i == 2)
                 {
@@ -159,6 +162,21 @@ namespace TravelPlannerApp
                 btn.Location = new Point(10, panel3.Controls.Count * 30);
                 panel3.Controls.Add(btn);
             }
+        }
+
+        private void Btn_Click(object sender, EventArgs e)
+        {
+            //throw new NotImplementedException();
+            info form = new info();
+            form.Sender("Mộc Châu");
+            form.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            this.Close();
+            
         }
     }
 }

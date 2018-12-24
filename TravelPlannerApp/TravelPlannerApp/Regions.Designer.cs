@@ -56,8 +56,10 @@
             // 
             // btnbac
             // 
-            this.btnbac.BackColor = System.Drawing.Color.Lime;
-            this.btnbac.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnbac.BackColor = System.Drawing.Color.White;
+            this.btnbac.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnbac.BackgroundImage")));
+            this.btnbac.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnbac.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnbac.Location = new System.Drawing.Point(76, 629);
             this.btnbac.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnbac.Name = "btnbac";
@@ -91,8 +93,10 @@
             // 
             // btntrung
             // 
-            this.btntrung.BackColor = System.Drawing.Color.Lime;
-            this.btntrung.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btntrung.BackColor = System.Drawing.Color.White;
+            this.btntrung.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btntrung.BackgroundImage")));
+            this.btntrung.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btntrung.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btntrung.Location = new System.Drawing.Point(492, 629);
             this.btntrung.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btntrung.Name = "btntrung";
@@ -103,8 +107,10 @@
             // 
             // btnnam
             // 
-            this.btnnam.BackColor = System.Drawing.Color.Lime;
-            this.btnnam.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnnam.BackColor = System.Drawing.Color.White;
+            this.btnnam.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnnam.BackgroundImage")));
+            this.btnnam.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnnam.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnnam.Location = new System.Drawing.Point(938, 629);
             this.btnnam.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnnam.Name = "btnnam";
@@ -116,7 +122,9 @@
             // 
             // label1
             // 
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(3, 13);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(1195, 162);
@@ -129,6 +137,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
+            this.BackColor = System.Drawing.Color.Black;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.CausesValidation = false;
             this.ClientSize = new System.Drawing.Size(1200, 692);
             this.Controls.Add(this.label1);
@@ -139,12 +149,15 @@
             this.Controls.Add(this.btnbac);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Regions";
-            this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Regions";
+            this.TransparencyKey = System.Drawing.SystemColors.Control;
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Regions_FormClosed);
+            this.Load += new System.EventHandler(this.Regions_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

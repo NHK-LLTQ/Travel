@@ -28,13 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NorthSide));
             this.RegionsN = new System.Windows.Forms.Label();
             this.groupBoxNE = new System.Windows.Forms.GroupBox();
-            this.groupBoxNW = new System.Windows.Forms.GroupBox();
-            this.groupBoxRRD = new System.Windows.Forms.GroupBox();
-            this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.groupBoxNW = new System.Windows.Forms.GroupBox();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.groupBoxRRD = new System.Windows.Forms.GroupBox();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBoxNE.SuspendLayout();
             this.groupBoxNW.SuspendLayout();
             this.groupBoxRRD.SuspendLayout();
@@ -61,6 +63,15 @@
             this.groupBoxNE.TabStop = false;
             this.groupBoxNE.Text = "Northeast";
             // 
+            // panel2
+            // 
+            this.panel2.AutoScroll = true;
+            this.panel2.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.panel2.Location = new System.Drawing.Point(7, 44);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(372, 419);
+            this.panel2.TabIndex = 0;
+            // 
             // groupBoxNW
             // 
             this.groupBoxNW.Controls.Add(this.panel1);
@@ -71,6 +82,15 @@
             this.groupBoxNW.TabIndex = 2;
             this.groupBoxNW.TabStop = false;
             this.groupBoxNW.Text = "Northwest";
+            // 
+            // panel1
+            // 
+            this.panel1.AutoScroll = true;
+            this.panel1.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.panel1.Location = new System.Drawing.Point(7, 44);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(367, 419);
+            this.panel1.TabIndex = 0;
             // 
             // groupBoxRRD
             // 
@@ -83,24 +103,6 @@
             this.groupBoxRRD.TabStop = false;
             this.groupBoxRRD.Text = "Red River Delta";
             // 
-            // panel1
-            // 
-            this.panel1.AutoScroll = true;
-            this.panel1.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.panel1.Location = new System.Drawing.Point(7, 44);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(367, 419);
-            this.panel1.TabIndex = 0;
-            // 
-            // panel2
-            // 
-            this.panel2.AutoScroll = true;
-            this.panel2.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.panel2.Location = new System.Drawing.Point(7, 44);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(372, 419);
-            this.panel2.TabIndex = 0;
-            // 
             // panel3
             // 
             this.panel3.AutoScroll = true;
@@ -110,17 +112,34 @@
             this.panel3.Size = new System.Drawing.Size(367, 419);
             this.panel3.TabIndex = 0;
             // 
+            // button1
+            // 
+            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button1.Location = new System.Drawing.Point(0, 1);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(140, 71);
+            this.button1.TabIndex = 4;
+            this.button1.Text = " ";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // NorthSide
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1200, 692);
+            this.ControlBox = false;
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBoxRRD);
             this.Controls.Add(this.groupBoxNW);
             this.Controls.Add(this.groupBoxNE);
             this.Controls.Add(this.RegionsN);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "NorthSide";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "North";
             this.Load += new System.EventHandler(this.NorthSide_Load);
             this.groupBoxNE.ResumeLayout(false);
@@ -139,5 +158,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Button button1;
     }
 }
