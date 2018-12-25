@@ -456,8 +456,412 @@ namespace TravelPlannerApp
                 d.SenderP("Mộc Châu");
                 d.ShowDialog();
             }
+            if (lblName.Text == "Mai Châu")
+            {
+                Direction d = new Direction();
+                d.SenderP("Mai Châu");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Tam Đảo")
+            {
+                Direction d = new Direction();
+                d.SenderP("Tam Đảo");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Hàm Lợn")
+            {
+                Direction d = new Direction();
+                d.SenderP("Hàm Lợn");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Mù Cang Chải")
+            {
+                Direction d = new Direction();
+                d.SenderP("Mù Cang Chải");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "SaPa")
+            {
+                Direction d = new Direction();
+                d.SenderP("SaPa");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Háng Tề Chơ")
+            {
+                Direction d = new Direction();
+                d.SenderP("Háng Tề Chơ");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Hồ Pa Khoang")
+            {
+                Direction d = new Direction();
+                d.SenderP("Hồ Pa Khoang");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vườn Quốc gia Xuân Sơn")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vườn Quốc gia Xuân Sơn");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đồng Cao")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đồng Cao");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Thác Bản Giốc")
+            {
+                Direction d = new Direction();
+                d.SenderP("Thác Bản Giốc");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vườn quốc gia Ba Vì")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vườn quốc gia Ba Vì");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Hồ Thung Nai")
+            {
+                Direction d = new Direction();
+                d.SenderP("Hồ Thung Nai");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vịnh Lan Hạ")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vịnh Lan Hạ");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Tây Yên Tử")
+            {
+                Direction d = new Direction();
+                d.SenderP("Tây Yên Tử");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bãi Dài")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bãi Dài");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bình Liêu")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bình Liêu");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Hồ Núi Cốc")
+            {
+                Direction d = new Direction();
+                d.SenderP("Hồ Núi Cốc");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Hồ Quan Sơn")
+            {
+                Direction d = new Direction();
+                d.SenderP("Hồ Quan Sơn");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Côn Sơn Kiếp Bạc")
+            {
+                Direction d = new Direction();
+                d.SenderP("Côn Sơn Kiếp Bạc");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đỉnh Lảo Thẩn")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đỉnh Lảo Thẩn");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Tà Xùa")
+            {
+                Direction d = new Direction();
+                d.SenderP("Tà Xùa");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bạch Mộc Lương Tử")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bạch Mộc Lương Tử");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Núi Muối")
+            {
+                Direction d = new Direction();
+                d.SenderP("Núi Muối");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Háng Đồng")
+            {
+                Direction d = new Direction();
+                d.SenderP("Háng Đồng");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Y Tý")
+            {
+                Direction d = new Direction();
+                d.SenderP("Y Tý");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Sìn Hồ")
+            {
+                Direction d = new Direction();
+                d.SenderP("Sìn Hồ");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Pù Luông")
+            {
+                Direction d = new Direction();
+                d.SenderP("Pù Luông");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bà Nà")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bà Nà");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đảo Lý Sơn")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đảo Lý Sơn");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Cù Lao Xanh")
+            {
+                Direction d = new Direction();
+                d.SenderP("Cù Lao Xanh");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Biển Bình Tiên")
+            {
+                Direction d = new Direction();
+                d.SenderP("Biển Bình Tiên");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đảo Phú Quý")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đảo Phú Quý");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Động Thiên Đường")
+            {
+                Direction d = new Direction();
+                d.SenderP("Động Thiên Đường");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vườn quốc gia Pù Mát")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vườn quốc gia Pù Mát");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Suối Cá Thần Cẩm Lương")
+            {
+                Direction d = new Direction();
+                d.SenderP("Suối Cá Thần Cẩm Lương");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vực Phun")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vực Phun");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vịnh Vũng Rô")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vịnh Vũng Rô");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bến En")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bến En");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Biển Sầm Sơn")
+            {
+                Direction d = new Direction();
+                d.SenderP("Biển Sầm Sơn");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Cà Mau")
+            {
+                Direction d = new Direction();
+                d.SenderP("Cà Mau");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Biển Thiên Cầm")
+            {
+                Direction d = new Direction();
+                d.SenderP("Biển Thiên Cầm");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Thung Nham - Thung Chim")
+            {
+                Direction d = new Direction();
+                d.SenderP("Thung Nham - Thung Chim");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đèo Hải Vân – Đầm Lập An")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đèo Hải Vân – Đầm Lập An");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vườn Quốc Gia Bạch Mã")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vườn Quốc Gia Bạch Mã");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đèo A Co – Thác A Nor")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đèo A Co – Thác A Nor");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Thành Phố Hồ Chí Minh")
+            {
+                Direction d = new Direction();
+                d.SenderP("Thành Phố Hồ Chí Minh");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Khe Tre - Thác Mơ")
+            {
+                Direction d = new Direction();
+                d.SenderP("Khe Tre - Thác Mơ");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Biển An Bàng")
+            {
+                Direction d = new Direction();
+                d.SenderP("Biển An Bàng");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Cù Lao Chàm")
+            {
+                Direction d = new Direction();
+                d.SenderP("Cù Lao Chàm");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đà Lạt")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đà Lạt");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Nam Du")
+            {
+                Direction d = new Direction();
+                d.SenderP("Nam Du");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đường ven biển Ninh Thuận")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đường ven biển Ninh Thuận");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bảo Lộc - Đà Lạt – Dran")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bảo Lộc - Đà Lạt – Dran");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bình Ba")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bình Ba");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bình Lập")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bình Lập");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bình Hưng")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bình Hưng");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đèo Pêke")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đèo Pêke");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Phú Quốc")
+            {
+                Direction d = new Direction();
+                d.SenderP("Phú Quốc");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vũng Tàu")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vũng Tàu");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Long An")
+            {
+                Direction d = new Direction();
+                d.SenderP("Long An");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Tiền Giang")
+            {
+                Direction d = new Direction();
+                d.SenderP("Tiền Giang");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Bến Tre")
+            {
+                Direction d = new Direction();
+                d.SenderP("Bến Tre");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Trà Vinh")
+            {
+                Direction d = new Direction();
+                d.SenderP("Trà Vinh");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Sóc Trăng")
+            {
+                Direction d = new Direction();
+                d.SenderP("Sóc Trăng");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Cần Thơ")
+            {
+                Direction d = new Direction();
+                d.SenderP("Cần Thơ");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Vĩnh Long")
+            {
+                Direction d = new Direction();
+                d.SenderP("Vĩnh Long");
+                d.ShowDialog();
+            }
+            if (lblName.Text == "Đồng Tháp")
+            {
+                Direction d = new Direction();
+                d.SenderP("Đồng Tháp");
+                d.ShowDialog();
+            }
+           
 
         }
+        
         private void GetPoints(double Lat,double Lng)
         {
             _points.Add(new PointLatLng(Lat, Lng));
