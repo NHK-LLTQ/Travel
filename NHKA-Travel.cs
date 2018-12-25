@@ -25,8 +25,11 @@ namespace TravelPlannerApp
         private void NHKA_Travel_MouseClick(object sender, MouseEventArgs e)
         {
             Regions Regi = new Regions();
-            Regi.ShowDialog();
+
             this.Hide();
+            
+            Regi.ShowDialog();
+            
         }
     }
 }
