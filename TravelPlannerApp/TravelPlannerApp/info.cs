@@ -25,6 +25,7 @@ namespace TravelPlannerApp
         GMarkerGoogle marker;
         GMapOverlay markerOverlay;
         DataTable dt;
+        
         double Lat = 16.564165;
         double Lng = 107.161219;
         
@@ -45,8 +46,10 @@ namespace TravelPlannerApp
         {
             lblName.ForeColor = Color.Red;
             gMapControl1.ShowCenter = false;
-           
-            
+            GMapProviders.BingMap.ClientKey = @"ArvE9po73RFIArjZRtFAexLAQdwbKTRKZVgvmeLhu0-LfKxmGpNZbUce0JY52G2U ";
+
+
+
         }
         private void GetMessage(string Message)
         {
@@ -419,7 +422,7 @@ namespace TravelPlannerApp
             }
             gMapControl1.DragButton = MouseButtons.Left;
             gMapControl1.CanDragMap = true;
-            gMapControl1.MapProvider = GMapProviders.GoogleMap;
+            gMapControl1.MapProvider = GMapProviders.BingMap;
             gMapControl1.Position = new PointLatLng(Lat, Lng);
             gMapControl1.MinZoom = 0;
             gMapControl1.MaxZoom = 24;
@@ -447,11 +450,12 @@ namespace TravelPlannerApp
         private void GetRoute_Click(object sender, EventArgs e)
         {
             
-                    
-
-           
-                
-
+            if(lblName.Text=="Mộc Châu")
+            {
+                Direction d = new Direction();
+                d.SenderP("Mộc Châu");
+                d.ShowDialog();
+            }
 
         }
         private void GetPoints(double Lat,double Lng)

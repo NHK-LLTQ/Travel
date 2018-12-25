@@ -146,3 +146,7 @@ C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelP
 C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.csproj.CopyComplete
 C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.exe
 C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.pdb
+C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\obj\Debug\TravelPlannerApp.Direction.resources
+C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\WebKitBrowser.dll
+C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\WebKit.Interop.dll
+C:\Users\tgdd\Desktop\Travel\TravelPlannerApp\TravelPlannerApp\bin\Debug\stdole.dll
