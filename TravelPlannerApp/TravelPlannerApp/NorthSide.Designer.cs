@@ -69,7 +69,7 @@
             this.panel2.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.panel2.Location = new System.Drawing.Point(7, 44);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(372, 419);
+            this.panel2.Size = new System.Drawing.Size(385, 419);
             this.panel2.TabIndex = 0;
             // 
             // groupBoxNW

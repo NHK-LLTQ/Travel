@@ -54,5 +54,11 @@ namespace TravelPlannerApp
                 else return;
             }
         }
+
+        private void btntrung_Click(object sender, EventArgs e)
+        {
+            Central central = new Central();
+            central.ShowDialog();
+        }
     }
 }

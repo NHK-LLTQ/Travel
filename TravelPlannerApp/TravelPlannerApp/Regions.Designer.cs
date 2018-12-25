@@ -104,6 +104,7 @@
             this.btntrung.TabIndex = 5;
             this.btntrung.Text = "Central";
             this.btntrung.UseVisualStyleBackColor = false;
+            this.btntrung.Click += new System.EventHandler(this.btntrung_Click);
             // 
             // btnnam
             // 

@@ -13,11 +13,14 @@ using GMap.NET.MapProviders;
 using GMap.NET.WindowsForms;
 using GMap.NET.WindowsForms.Markers;
 
+
+
 namespace TravelPlannerApp
 {
     
     public partial class info : Form
     {
+       
         List<PointLatLng> _points;
         GMarkerGoogle marker;
         GMapOverlay markerOverlay;
@@ -33,11 +36,17 @@ namespace TravelPlannerApp
             Sender = new SendMessage(GetMessage);
             _points = new List<PointLatLng>();
             //SenderP = new SendPicture(GetPicture);
+            GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
+
+
 
         }
         protected void info_Load(object sender, EventArgs e)
         {
             lblName.ForeColor = Color.Red;
+            gMapControl1.ShowCenter = false;
+           
+            
         }
         private void GetMessage(string Message)
         {
@@ -133,6 +142,7 @@ namespace TravelPlannerApp
             if (lblName.Text == "Hồ Núi Cốc")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Hồ_Núi_Cốc;
+                Addmarker("Hồ Núi Cốc", 21.584080, 105.697171);
             }
             if (lblName.Text == "Hồ Quan Sơn")
             {
@@ -182,167 +192,210 @@ namespace TravelPlannerApp
             if (lblName.Text == "Pù Luông")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Pù_Luông;
+                Addmarker("Pù Luông", 20.467804, 105.172564);
 
             }
             if (lblName.Text == "Bà Nà")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Bà_Nà;
+                Addmarker("Bà Nà", 15.997880, 107.988066);
             }
             if (lblName.Text == "Đảo Lý Sơn")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đảo_Lý_Sơn;
+                Addmarker("Đảo Lý Sơn", 15.383641, 109.110747);
             }
             if (lblName.Text == "Cù Lao Xanh")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Cù_Lao_Xanh;
+                Addmarker("Cù Lao Xanh", 13.623443, 109.345711);
             }
             if (lblName.Text == "Biển Bình Tiên")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Biển_Bình_Tiên;
+                Addmarker("Biển Bình Tiên", 11.801327, 109.185468);
             }
             if (lblName.Text == "Đảo Phú Quý")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đảo_Phú_Quý;
+                Addmarker("Đảo Phú Quý", 10.522944, 108.944624);
             }
             if (lblName.Text == "Động Thiên Đường")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Động_Thiên_Đường;
+                Addmarker("Động Thiên Đường", 17.521446, 106.219679);
             }
             if (lblName.Text == "Vườn quốc gia Pù Mát")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Vườn_quốc_gia_Pù_Mát;
+                Addmarker("Vườn quốc gia Pù Mát", 19.057903, 104.860299);
             }
             if (lblName.Text == "Suối Cá Thần Cẩm Lương")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Suối_Cá_Thần_Cẩm_Lương;
+                Addmarker("Suối Cá Thần Cẩm Lương", 20.251421, 105.390999);
             }
             if (lblName.Text == "Vực Phun")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Vực_Phun;
+                Addmarker("Vực Phun", 12.876265, 109.128547);
             }
             if (lblName.Text == "Vịnh Vũng Rô")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Vịnh_Vũng_Rô;
+                Addmarker("Vịnh Vũng Rô", 12.867813, 109.423795);
             }
             if (lblName.Text == "Bến En")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Bến_En;
+                Addmarker("Bến En", 19.618145, 105.529568);
             }
             if (lblName.Text == "Biển Sầm Sơn")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Biển_Sầm_Sơn;
+                Addmarker("Biển Sầm Sơn", 19.745718, 105.907583);
             }
             if (lblName.Text == "Cà Mau")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Cà_Mau;
+                Addmarker("Cà Mau", 9.153008, 105.196251);
             }
             if (lblName.Text == "Biển Thiên Cầm")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Biển_Thiên_Cầm;
+                Addmarker("Biển Thiên Cầm", 18.271269, 106.108687);
             }
             if (lblName.Text == "Thung Nham - Thung Chim")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Thung_Nham___Thung_Chim;
+                Addmarker("Thung Nham - Thung Chim", 20.221295, 105.891077);
             }
             if (lblName.Text == "Đèo Hải Vân – Đầm Lập An")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đèo_Hải_Vân___Đầm_Lập_An;
+                Addmarker("Đèo Hải Vân", 16.183664, 108.089678);
+                Addmarker("Đầm Lập An", 16.233227, 108.078543);
             }
             if (lblName.Text == "Vườn Quốc Gia Bạch Mã")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Vườn_Quốc_Gia_Bạch_Mã;
+                Addmarker("Vườn Quốc Gia Bạch Mã", 16.249600, 107.872615);
             }
             if (lblName.Text == "Đèo A Co – Thác A Nor")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đèo_A_Co___Thác_A_Nor;
+                Addmarker("Thác A Nor", 16.306056, 107.214416);
             }
             if (lblName.Text == "Thành Phố Hồ Chí Minh")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Thành_Phố_Hồ_Chí_Minh;
+                Addmarker("Thành Phố Hồ Chí Minh", 10.822926, 106.629835);
             }
             if (lblName.Text == "Khe Tre - Thác Mơ")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Khe_Tre___Thác_Mơ;
+                Addmarker("Khe Tre", 16.172052, 107.718695);
+                Addmarker("Thác Mơ", 16.210254, 107.723801);
             }
             if (lblName.Text == "Biển An Bàng")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Biển_An_Bàng;
+                Addmarker("Biển An Bàng", 16.423543, 107.833115);
             }
             if (lblName.Text == "Cù Lao Chàm")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Cù_Lao_Chàm;
+                Addmarker("Cù Lao Chàm", 15.958965, 108.507814);
             }
             if (lblName.Text == "Đà Lạt")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đà_Lạt;
+                Addmarker("Đà Lạt", 11.939911, 108.458656);
             }
             if (lblName.Text == "Nam Du")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Nam_Du;
+                Addmarker("Nam Du", 9.682481, 104.352663);
             }
             if (lblName.Text == "Đường ven biển Ninh Thuận")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đường_ven_biển_Ninh_Thuận;
+                Addmarker("Biển Ninh Thuận", 11.328771, 108.972832);
             }
             if (lblName.Text == "Bảo Lộc - Đà Lạt – Dran")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Bảo_Lộc___Đà_Lạt___Dran;
+                Addmarker("Bảo Lộc",11.572933, 107.835207);
             }
             if (lblName.Text == "Bình Ba")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Bình_Ba;
+                Addmarker("Bình Ba", 11.837179, 109.232860);
             }
             if (lblName.Text == "Bình Lập")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Bình_Lập;
+                Addmarker("Bình Lập", 11.851349, 109.171481);
             }
             if (lblName.Text == "Bình Hưng")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Bình_Hưng;
+                Addmarker("Bình Hưng", 11.777869, 109.217526);
             }
             if (lblName.Text == "Đèo Pêke")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đèo_Pêke;
+                Addmarker("Đèo Pêke", 16.403362, 107.092972);
             }
             if (lblName.Text == "Phú Quốc")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Phú_Quốc;
+                Addmarker("Phú Quốc", 10.286712, 103.978089);
             }
             if (lblName.Text == "Vũng Tàu")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Vũng_Tàu;
+                Addmarker("Vũng Tàu", 10.411882, 107.136567);
             }
             if (lblName.Text == "Long An")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Long_An;
+                Addmarker("Long An", 10.538337, 106.405473);
             }
             if (lblName.Text == "Tiền Giang")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Tiền_Giang;
+                Addmarker("Tiền Giang", 10.449666, 106.341364);
             }
             if (lblName.Text == "Bến Tre")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Bến_Tre;
+                Addmarker("Bến Tre", 10.242507, 106.376238);
             }
             if (lblName.Text == "Trà Vinh")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Trà_Vinh;
+                Addmarker("Trà Vinh", 9.951497, 106.334263);
             }
             if (lblName.Text == "Sóc Trăng")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Sóc_Trăng;
+                Addmarker("Sóc Trăng", 9.602856, 105.973390);
             }
             if (lblName.Text == "Cần Thơ")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Cần_Thơ;
+                Addmarker("Cần Thơ", 10.045665, 105.747197);
             }
             if (lblName.Text == "Vĩnh Long")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Vĩnh_Long;
+                Addmarker("Vĩnh Long", 10.239401, 105.957021);
             }
             if (lblName.Text == "Đồng Tháp")
             {
                 lblName.Image = TravelPlannerApp.Properties.Resources.Đồng_Tháp;
+                Addmarker("Đồng Tháp", 10.494639, 105.687836);
             }
         }
         private void lblName_Click(object sender, EventArgs e)
@@ -382,7 +435,7 @@ namespace TravelPlannerApp
             table.Columns.Add("Lng", typeof(double));
 
             table.Rows.Add(Name, x, y);
-            table.Rows.Add("Yours places", 10.854309, 106.650977);
+            //table.Rows.Add("Yours places", 10.854309, 106.650977);
             return table;
         }
 
@@ -393,19 +446,13 @@ namespace TravelPlannerApp
 
         private void GetRoute_Click(object sender, EventArgs e)
         {
-            //if(lblName.Text=="Mộc Châu")
-            //{
-            //    GetPoints(20.921494, 104.751506);
+            
+                    
 
-            //}
-            PointLatLng start = new PointLatLng(10.8544258, 106.6509023);
-            PointLatLng end = new PointLatLng(16.0660657, 105.5730517);
-            MapRoute route =GoogleMapProvider.Instance.GetRoute(start, end, false, false, 14);
-            GMapRoute r = new GMapRoute(route.Points, "Yours Route");
-            GMapOverlay routesOverlay = new GMapOverlay("routes");
-            routesOverlay.Routes.Add(r);
-            gMapControl1.Overlays.Add(routesOverlay);
-            r.Stroke.Color = Color.Red;
+           
+                
+
+
         }
         private void GetPoints(double Lat,double Lng)
         {
