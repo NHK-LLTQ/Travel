@@ -537,7 +537,7 @@ namespace TravelPlannerApp
             if (lblName.Text == "Tây Yên Tử")
             {
                 Direction d = new Direction();
-                d.SenderP("Tây Yên Tử");
+                d.SenderP("Tay Yen Tu, Sơn Động District, Bac Giang");
                 d.ShowDialog();
             }
             if (lblName.Text == "Bãi Dài")
